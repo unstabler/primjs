@@ -101,6 +101,7 @@ b.EQ Label_9
 b Label_10
 Label_9:
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_1:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -117,6 +118,7 @@ Label_7:
 .word 0xf9400669
 .word 0xf9007928
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_2:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -131,6 +133,7 @@ Label_8:
 .word 0xd4bbd5c1
 .global _return_entry_0_1
 _return_entry_0_1:
+__primjs_embedded_inspector_cfi_3:
 .cfi_startproc
 .cfi_def_cfa x29,  16
 .cfi_offset x29, -16
@@ -181,6 +184,7 @@ Label_14:
 .cfi_endproc
 .global _return_entry_1_1
 _return_entry_1_1:
+__primjs_embedded_inspector_cfi_4:
 .cfi_startproc
 .cfi_def_cfa x29,  16
 .cfi_offset x29, -16
@@ -231,6 +235,7 @@ Label_18:
 .cfi_endproc
 .global _return_entry_2_1
 _return_entry_2_1:
+__primjs_embedded_inspector_cfi_5:
 .cfi_startproc
 .cfi_def_cfa x29,  16
 .cfi_offset x29, -16
@@ -281,6 +286,7 @@ Label_22:
 .cfi_endproc
 .global _return_entry_0_2
 _return_entry_0_2:
+__primjs_embedded_inspector_cfi_6:
 .cfi_startproc
 .cfi_def_cfa x29,  16
 .cfi_offset x29, -16
@@ -331,6 +337,7 @@ Label_26:
 .cfi_endproc
 .global _return_entry_1_2
 _return_entry_1_2:
+__primjs_embedded_inspector_cfi_7:
 .cfi_startproc
 .cfi_def_cfa x29,  16
 .cfi_offset x29, -16
@@ -381,6 +388,7 @@ Label_30:
 .cfi_endproc
 .global _return_entry_2_2
 _return_entry_2_2:
+__primjs_embedded_inspector_cfi_8:
 .cfi_startproc
 .cfi_def_cfa x29,  16
 .cfi_offset x29, -16
@@ -431,6 +439,7 @@ Label_34:
 .cfi_endproc
 .global _return_entry_0_3
 _return_entry_0_3:
+__primjs_embedded_inspector_cfi_9:
 .cfi_startproc
 .cfi_def_cfa x29,  16
 .cfi_offset x29, -16
@@ -481,6 +490,7 @@ Label_38:
 .cfi_endproc
 .global _return_entry_1_3
 _return_entry_1_3:
+__primjs_embedded_inspector_cfi_10:
 .cfi_startproc
 .cfi_def_cfa x29,  16
 .cfi_offset x29, -16
@@ -531,6 +541,7 @@ Label_42:
 .cfi_endproc
 .global _return_entry_2_3
 _return_entry_2_3:
+__primjs_embedded_inspector_cfi_11:
 .cfi_startproc
 .cfi_def_cfa x29,  16
 .cfi_offset x29, -16
@@ -581,6 +592,7 @@ Label_46:
 .cfi_endproc
 .global _normal_entry
 _normal_entry:
+__primjs_embedded_inspector_cfi_12:
 .cfi_startproc
 .word 0xd10283ff
 .word 0xf9401183
@@ -759,6 +771,7 @@ Label_65:
 .cfi_endproc
 .global _native_entry
 _native_entry:
+__primjs_embedded_inspector_cfi_13:
 .cfi_startproc
 .cfi_def_cfa x29,  16
 .cfi_offset x29, -16
@@ -804,6 +817,7 @@ _async_entry:
 .word 0xf9000229
 .word 0xf9007911
 .word 0xd10283ff
+__primjs_embedded_inspector_cfi_14:
 .cfi_startproc
 .word 0xa9097bfd
 .word 0x910243fd
@@ -3714,6 +3728,7 @@ _dispatch_table_1_35:
 .word 0xf8008680
 .word 0xf85b83b1
 .word 0xf9002234
+__primjs_embedded_inspector_cfi_15:
 .cfi_startproc
 .cfi_def_cfa x29,  16
 .cfi_offset x29, -16
@@ -3805,6 +3820,7 @@ b.EQ Label_244
 b Label_245
 Label_244:
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_16:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -3821,6 +3837,7 @@ _dispatch_table_2_35:
 .word 0xf9002234
 .global _dispatch_table_0_35
 _dispatch_table_0_35:
+__primjs_embedded_inspector_cfi_17:
 .cfi_startproc
 .cfi_def_cfa x29,  16
 .cfi_offset x29, -16
@@ -3912,6 +3929,7 @@ b.EQ Label_253
 b Label_254
 Label_253:
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_18:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -4038,6 +4056,7 @@ _dispatch_table_1_37:
 .word 0xf8008680
 .word 0xf85b83b1
 .word 0xf9002234
+__primjs_embedded_inspector_cfi_19:
 .cfi_startproc
 .cfi_def_cfa x29,  16
 .cfi_offset x29, -16
@@ -4132,6 +4151,7 @@ b.EQ Label_270
 b Label_271
 Label_270:
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_20:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -4148,6 +4168,7 @@ _dispatch_table_2_37:
 .word 0xf9002234
 .global _dispatch_table_0_37
 _dispatch_table_0_37:
+__primjs_embedded_inspector_cfi_21:
 .cfi_startproc
 .cfi_def_cfa x29,  16
 .cfi_offset x29, -16
@@ -4242,6 +4263,7 @@ b.EQ Label_279
 b Label_280
 Label_279:
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_22:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -4559,6 +4581,7 @@ b.EQ Label_297
 b Label_298
 Label_297:
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_23:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -4591,6 +4614,7 @@ b.EQ Label_299
 b Label_300
 Label_299:
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_24:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -4622,6 +4646,7 @@ b.EQ Label_301
 b Label_302
 Label_301:
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_25:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -4655,6 +4680,7 @@ b.EQ Label_303
 b Label_304
 Label_303:
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_26:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -5088,6 +5114,7 @@ _dispatch_table_1_46:
 .word 0xf9400669
 .word 0xf9007928
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_27:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -5132,6 +5159,7 @@ _dispatch_table_0_46:
 .word 0xf9400669
 .word 0xf9007928
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_28:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -15814,6 +15842,7 @@ _dispatch_table_1_135:
 .word 0xf9400669
 .word 0xf9007928
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_29:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -15858,6 +15887,7 @@ _dispatch_table_0_135:
 .word 0xf9400669
 .word 0xf9007928
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_30:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -15901,6 +15931,7 @@ _dispatch_table_1_136:
 .word 0xf9400669
 .word 0xf9007928
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_31:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -15946,6 +15977,7 @@ _dispatch_table_0_136:
 .word 0xf9400669
 .word 0xf9007928
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_32:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -15989,6 +16021,7 @@ _dispatch_table_1_137:
 .word 0xf9400669
 .word 0xf9007928
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_33:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -16034,6 +16067,7 @@ _dispatch_table_0_137:
 .word 0xf9400669
 .word 0xf9007928
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_34:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -16077,6 +16111,7 @@ _dispatch_table_1_138:
 .word 0xf9400669
 .word 0xf9007928
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_35:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -16122,6 +16157,7 @@ _dispatch_table_0_138:
 .word 0xf9400669
 .word 0xf9007928
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_36:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -16164,6 +16200,7 @@ _dispatch_table_1_139:
 .word 0xf9400669
 .word 0xf9007928
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_37:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -16208,6 +16245,7 @@ _dispatch_table_0_139:
 .word 0xf9400669
 .word 0xf9007928
 .word 0xf94007be
+__primjs_embedded_inspector_cfi_38:
 .cfi_startproc
 .word 0x910003bf
 .word 0xa8c17bfd
@@ -33692,6 +33730,7 @@ Label_2101:
 .word 0xd61f0120
 .global __call_stub_entry
 __call_stub_entry:
+__primjs_embedded_inspector_cfi_39:
 .cfi_startproc
 .word 0xa9bf7bfd
 .word 0x910003fd
